@@ -10,7 +10,7 @@ from idea import IDEA
 app = FastAPI()
 
 origins = [
-    "https://idea-cipher-gallkq4pj-taras-projects-adb37d18.vercel.app"
+    "https://idea-cipher-frontend.vercel.app"
 ]
 
 app.add_middleware(
